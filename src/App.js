@@ -25,7 +25,6 @@ function App() {
       fill: true,
       fluid: true,
       preload: "auto",
-      muted: true,
     });
 
     playerRef.current.src({ type: "application/x-mpegURL", src: videoUrl });
@@ -53,7 +52,11 @@ function App() {
           ))}
         </select>
 
-        <video ref={videoNode} className="video-js vjs-default-skin" />
+        <video
+          ref={videoNode}
+          className="video-js vjs-default-skin"
+          playsinline
+        />
       </header>
     </div>
   );
