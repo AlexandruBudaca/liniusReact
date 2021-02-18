@@ -13,12 +13,3 @@
   color: white;
 }
 
-.videoPlayer {
-  width: 500px;
-}
-@media (max-width: 768px) {
-    .videoPlayer {
-      width: 100%;
-      height: auto;
-    }
-}
