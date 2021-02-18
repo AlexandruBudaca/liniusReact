@@ -53,7 +53,7 @@ function App() {
           ))}
         </select>
 
-        <video ref={videoNode} className="video-js vjs-default-skin" muted />
+        <video ref={videoNode} className="video-js vjs-default-skin" />
       </header>
     </div>
   );
