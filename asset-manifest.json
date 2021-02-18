@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/liniusReact/static/css/main.d33e6418.chunk.css",
+    "main.js": "/liniusReact/static/js/main.9410a505.chunk.js",
+    "main.js.map": "/liniusReact/static/js/main.9410a505.chunk.js.map",
+    "runtime-main.js": "/liniusReact/static/js/runtime-main.75ca3e89.js",
+    "runtime-main.js.map": "/liniusReact/static/js/runtime-main.75ca3e89.js.map",
+    "static/js/2.4500dcfb.chunk.js": "/liniusReact/static/js/2.4500dcfb.chunk.js",
+    "static/js/2.4500dcfb.chunk.js.map": "/liniusReact/static/js/2.4500dcfb.chunk.js.map",
+    "static/js/3.3195f936.chunk.js": "/liniusReact/static/js/3.3195f936.chunk.js",
+    "static/js/3.3195f936.chunk.js.map": "/liniusReact/static/js/3.3195f936.chunk.js.map",
+    "index.html": "/liniusReact/index.html",
+    "static/css/main.d33e6418.chunk.css.map": "/liniusReact/static/css/main.d33e6418.chunk.css.map",
+    "static/js/2.4500dcfb.chunk.js.LICENSE.txt": "/liniusReact/static/js/2.4500dcfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ca3e89.js",
+    "static/js/2.4500dcfb.chunk.js",
+    "static/css/main.d33e6418.chunk.css",
+    "static/js/main.9410a505.chunk.js"
+  ]
+}
